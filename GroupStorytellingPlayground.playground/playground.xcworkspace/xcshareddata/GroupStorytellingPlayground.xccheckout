@@ -12,20 +12,24 @@
 	<dict>
 		<key>1904FEE6F0110534FE50242D9D38CBDF01F2A9E6</key>
 		<string>https://github.com/bitmakerlabs/group_storytelling.git</string>
+		<key>92D449172722735483823B4D9B88459C06A4F07F</key>
+		<string>https://github.com/Alex-Besson/groupstorytelling.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>GroupStorytellingPlayground.playground</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>1904FEE6F0110534FE50242D9D38CBDF01F2A9E6</key>
+		<string>../../group_storytelling</string>
+		<key>92D449172722735483823B4D9B88459C06A4F07F</key>
 		<string>..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/bitmakerlabs/group_storytelling.git</string>
+	<string>https://github.com/Alex-Besson/groupstorytelling.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>1904FEE6F0110534FE50242D9D38CBDF01F2A9E6</string>
+	<string>92D449172722735483823B4D9B88459C06A4F07F</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -35,6 +39,14 @@
 			<string>1904FEE6F0110534FE50242D9D38CBDF01F2A9E6</string>
 			<key>IDESourceControlWCCName</key>
 			<string>group_storytelling</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>92D449172722735483823B4D9B88459C06A4F07F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>groupstorytelling</string>
 		</dict>
 	</array>
 </dict>
